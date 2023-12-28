@@ -1,3 +1,4 @@
-### Hi there 👋
+ ### Hi there 👋
 I am Aryan Bansal from UPES pursuing BTECH CSE(DEVSECOPS).I m currently in 2nd year.I have some experienced of Web devlopment.i have also learned JAVA,C++,C and PYTHON..
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Aryan)](https://github.com/anuraghazra/github-readme-stats)
+https://github.com/aryan/Awesome-Profile-README-templates
+https://github.com/aryan/github-readme-stat
