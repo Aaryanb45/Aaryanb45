@@ -4,7 +4,7 @@
 
 <h1 align="center">Hey!!, I'm Aryan Bansal</h1>
 
-<h3 align="center">I am Aryan Bansal from UPES pursuing BTECH CSE(DEVSECOPS).I m currently in 2nd year.I have some experienced of Web devlopment.i have also learned JAVA,C++,C and PYTHON..</h3>
+<h3 align="center">I am Aryan Bansal from UPES pursuing BTECH CSE(DEVSECOPS).I m currently in 3rd year.I have some experienced of Web devlopment.i have also learned JAVA,C++,C and PYTHON..</h3>
 
 
 
